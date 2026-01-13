@@ -1,0 +1,201 @@
+{
+    "es-ES": {
+        "styles": {
+            "bg": "#0f0f0f",
+            "lang-select-color": "#222829",
+            "bg-light": "#0f0f0f",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#D9D9D9",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#B7A469",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#5065b9",
+            "yellow": "#B7A469",
+            "yellow-button": "#5065b9",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#B7A469",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#0f0f0f",
+            "copyright": "#e7e7d5",
+            "starColor": "#B7A469",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Gran Casino Las Palmas",
+            "title": "Gran Casino Las Palmas: casino, máquinas, mesas, bar y entretenimiento",
+            "description": "Descubre Gran Casino Las Palmas: ambiente, horarios, juegos más populares, límites de apuesta, eventos y espectáculos, bar y restaurante, bonos y normas de acceso para una noche completa.",
+            "canonical": "casinolaspalmas-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1612",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinolaspalmas-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1613",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1614"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1619",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Gran Casino Las Palmas Logo"
+        },
+        "nav": {
+            "signUp": "Registrarse",
+            "playNow": "Jugar ahora"
+        },
+        "hero": {
+            "title": "Gran Casino Las Palmas: juego, shows y noche",
+            "textDesktop": "Oferta exclusiva de bienvenida de",
+            "textMobile": "Oferta exclusiva de bienvenida de",
+            "playGame": "Jugar",
+            "claimBonus": "Reclamar bono",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1615",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1616",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Reclamar bono",
+            "title": "Los mejores casinos",
+            "allCasino": "Todos los casinos",
+            "welcomeBonusText": "Bono de bienvenida"
+        },
+        "bonusDetails": {
+            "title": "Detalles de bonificación",
+            "getBonusButtonText": "Obtener bono",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonos",
+            "rate": "Rate",
+            "freeSpins": "Giros gratis",
+            "moreInfo": "Más info",
+            "get": "Conseguir",
+            "refresh": "Refrescar"
+        },
+        "advantages": {
+            "title": "Ventajas",
+            "advantagesBeforeText": "",
+            "items": [
+                "Tragaperras con botes progresivos cada noche",
+                "Blackjack y ruleta con pagos rápidos",
+                "Torneos de póker con premios regulares",
+                "Promociones de bonificación en juego y copas",
+                "Horario amplio para noches largas diarias",
+                "Céntrico, junto al Puerto y Santa Catalina",
+                "Restaurante y lounge bar para descansar"
+            ],
+            "advantagesAfterText": "Gran Casino Las Palmas destaca por unir juego y ocio nocturno en un mismo espacio. Puedes empezar en máquinas, pasar a mesas y terminar la velada con bar o espectáculo. El ambiente está pensado para una experiencia cómoda, con opciones tanto para principiantes como para jugadores habituales.\n",
+            "knowMore": "Saber más",
+            "appTitle": "Casino Las Palmas App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1617",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Las Palmas App",
+            "mobileGooglePlayImageTitle": "Casino Las Palmas App",
+            "mobileIosImageTitle": "Casino Las Palmas App"
+        },
+        "games": {
+            "playNowText": "Jugar ahora",
+            "title": "Los mejores juegos",
+            "allGames": "Todos los juegos"
+        },
+        "about": {
+            "history": {
+                "title": "Acerca de Casino Las Palmas",
+                "description1": "El casino se diferencia por ofrecer una noche completa: juego, bar y entretenimiento en un mismo lugar. A eso se suma una ubicación cómoda y un horario nocturno que facilita disfrutar sin prisas.\n",
+                "items": [
+                    "Botes hasta 50.000€.",
+                    "Bono cashback 10% semanal.",
+                    "Premios de torneos 10.000€+."
+                ],
+                "description2": "Gran Casino Las Palmas es un espacio donde el juego se combina con un plan nocturno urbano. El interior transmite un estilo moderno con un enfoque en la comodidad y una elegancia discreta. La distribución permite pasar de máquinas a mesas de forma natural.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1620",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Mucha gente viene no solo por apostar, sino por el ambiente de salida nocturna. El lugar resulta práctico para quienes prefieren un ritmo tranquilo y un servicio claro. Suele ser fácil encontrar un formato acorde al momento, desde una partida rápida hasta una noche larga. La zona de bar y gastronomía completa la experiencia y ayuda a hacer pausas. Los eventos aportan dinamismo y sensación de vida. Para visitantes habituales existen mecánicas de club con ventajas acumulables. En conjunto, es una opción versátil para combinar juego, socialización y descanso.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Noche en el Gran Casino Las Palmas: estilo, ambiente e impresiones",
+                "description": "<p>\nGran Casino Las Palmas recibe al visitante con un ambiente moderno y bien iluminado, donde se percibe un equilibrio entre elegancia y un toque relajado de plan nocturno. El diseño suele apostar por líneas limpias, asientos cómodos y una distribución clara que evita la sensación de agobio. La música y la iluminación acompañan el ritmo de la noche sin resultar invasivas. Es un espacio cómodo tanto para una visita corta como para pasar varias horas.\n\n<\/p>\n<br>\n\n\n<p>\nEl horario está pensado para el ocio nocturno: la zona de máquinas y juego electrónico funciona desde la mañana hasta la madrugada, mientras que las mesas cobran protagonismo a partir de la tarde. Este esquema es práctico si prefieres empezar con calma y reservar lo principal para después de cenar. Muchas personas valoran poder organizar la visita sin prisas, eligiendo el momento según su estilo. La orientación dentro del local suele ser sencilla incluso en el primer acceso.\n\n<\/p>\n<br>\n<p>\nLa parte de bar tiene un papel clave: no es solo un descanso entre apuestas, sino una pieza del plan. En el lounge es fácil reunirse con amigos, comentar la partida y cambiar a un modo más social. Bebidas y snacks ayudan a mantener un ritmo agradable, y el servicio suele cuidarse para no romper la privacidad ni generar ruido innecesario. Para quien busca cerrar la noche con buen sabor, el bar y el lounge encajan como final natural.\n\n<\/p>\n<br>\n<p>\nLos eventos y las noches temáticas aportan energía extra, incluso para quienes no van a apostar fuerte. En esos días el casino se vive como un lugar de salida, donde el juego es solo una parte del conjunto. Actuaciones musicales y propuestas especiales refuerzan el ambiente festivo y dan motivos para volver. Resulta ideal si quieres combinar experiencias: primero cena y show, y después juego.\n\n<\/p>\n<br>\n<p>\nPara visitantes habituales suelen existir mecánicas de bonificación y ventajas de club que hacen las visitas más atractivas y personalizadas. La acumulación de puntos, ofertas de bienvenida y promociones periódicas añaden sensación de retorno. También pesan los privilegios no monetarios: invitaciones a eventos, atención más flexible e información prioritaria sobre actividades. Así, Gran Casino Las Palmas se percibe como un lugar donde puedes crear tu propio estilo de ocio, desde una noche tranquila hasta un plan completo.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServicios y finanzas en Gran Casino Las Palmas: personal, pago y Recepción de ganancias\n<\/h3>\n\n<p>\nEl personal de Gran Casino Las Palmas suele trabajar con un enfoque claramente orientado al visitante: bienvenida en la entrada, ayuda para ubicarse y acompañamiento discreto cuando surge alguna duda. Se mantiene un trato neutral y respetuoso, especialmente al explicar normas, límites y procedimientos. En mostradores de información y zonas de bar, el servicio tiende a ser ágil para no romper el ritmo de la noche. En horas de mayor actividad suele haber responsables de sala que resuelven incidencias sin complicaciones.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a idiomas, el español es el principal, y en horarios turísticos normalmente se ofrece atención en inglés para gestiones habituales. Los términos de juego suelen entenderse con facilidad porque las reglas y procesos están estandarizados. Un trato calmado y educado facilita acordar detalles como cambio de fichas o normas de una mesa concreta. Para solicitudes más específicas, lo habitual es que te atienda un supervisor de turno.\n\n<\/p>\n<br>\n<p>\nLa moneda de referencia es el euro, lo que permite planificar el presupuesto sin conversiones. En casinos presenciales normalmente se aceptan pagos en efectivo y con tarjeta, además de opciones de recarga a través de caja según la operativa vigente. En la práctica conviene llevar tarjeta y algo de efectivo para controlar límites, propinas y pagos pequeños con rapidez. La caja suele confirmar qué sistemas de pago están disponibles en ese momento y bajo qué condiciones.\n\n<\/p>\n<br>\n<p>\nPara turistas, el tema de cajeros y cambio de divisa es clave: a menudo hay cajeros cerca o en zonas muy transitadas a poca distancia. El cambio de moneda suele ser más conveniente en bancos o casas de cambio, y en el casino utilizar euros para evitar comisiones innecesarias. Si usas una tarjeta extranjera, es recomendable revisar comisiones por retirada y conversión. Así se protege mejor el presupuesto destinado al juego y al ocio.\n\n<\/p>\n<br>\n<p>\nEl cobro de premios en un casino presencial suele ser directo: se canjean fichas y\/o resultados confirmados de sistemas de juego en la caja. Según el importe, pueden solicitar documento de identidad y algunos datos personales, algo habitual por seguridad y control financiero. Para cantidades altas es frecuente que se emita documentación de la operación, de modo que el visitante tenga justificante. Si piensas jugar en serio, es útil preguntar por límites de pago y opciones de fraccionamiento.\n\n<\/p>\n<br>\n<p>\nLa parte fiscal depende del perfil del jugador y de las obligaciones de declaración: las ganancias del juego pueden requerir tratamiento tributario, y la responsabilidad de cumplir suele recaer en quien cobra el premio. El casino normalmente aplica procesos de identificación y puede facilitar justificantes de operación si se necesitan. La recomendación práctica es guardar documentos de caja y registrar transacciones importantes para evitar dudas futuras. Si no conoces los detalles, lo sensato es informarte por vías oficiales y actuar con prudencia.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nReglas para visitar Gran Casino Las Palmas: código de vestimenta, condiciones de entrada y cómo llegar\n<\/h3>\n\n<p>\nGran Casino Las Palmas mantiene un estilo de salida nocturna, por lo que la imagen personal debe encajar con el entorno. El acceso suele ser solo para mayores de edad y en el control pueden solicitar documento. Dentro se espera una conducta tranquila: no molestar, evitar conflictos y respetar las indicaciones de seguridad. La grabación de fotos o vídeo en zonas de juego suele estar limitada para proteger la privacidad. El tabaco normalmente se rige por normas internas y restricciones vigentes, así que conviene fijarse en la señalización. Si alguien llega con un nivel alto de intoxicación, pueden denegar la entrada o pedir que salga, ya que el orden es prioritario. En sala no se acostumbra a reservar sitios sin jugar ni bloquear mesas. En disputas sobre apuestas, la resolución suele apoyarse en reglamentos internos y videovigilancia. Es recomendable cuidar objetos personales y usar guardarropa si está disponible. Para una visita cómoda, ayuda definir presupuesto y jugar de forma responsable. Por la noche, conviene contar con tráfico y tiempo extra para aparcar o llegar en transporte.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCódigo de vestimenta\n<\/h4>\n\n <ul>\n            <li>• \nCasual cuidado o smart casual\n\n<\/li>\n            <li>• \nCalzado cerrado recomendado\n\n<\/li>\n            <li>• \nEvitar ropa de playa y exceso deportivo\n<\/li>\n            <li>• \nPor la noche, estilo más formal\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de acceso:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEntrada solo para adultos\n\n<\/li>\n            <li>• \nPosible verificación de identidad\n\n<\/li>\n            <li>• \nRespeto a normas de juego y sala\n\n<\/li>\n            <li>• \nCumplir indicaciones del personal\n\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibiciones y límites:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRestricciones de grabación en áreas de juego\n\n<\/li>\n            <li>• \nProhibido comportamiento agresivo o discusiones\n\n<\/li>\n            <li>• \nNo interferir en partidas ajenas\n\n<\/li>\n            <li>• \nAcceso denegado por embriaguez evidente\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAparcamiento y cómo llegar:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDe noche, taxi o VTC suele ser lo más cómodo\n\n<\/li>\n            <li>• \nA pie es fácil si estás cerca\n\n<\/li>\n            <li>• \nEn coche, buscar parking con antelación\n\n<\/li>\n            <li>• \nEn horas punta, prever margen de tiempo\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPrograma de fidelización Gran Casino Las Palmas: niveles, puntos y beneficios Club Winner\n<\/h3>\n\n<p>\nEl programa de fidelidad en Gran Casino Las Palmas suele entenderse como una forma de hacer que las visitas frecuentes resulten más ventajosas y cómodas. La idea es sencilla: te registras, usas tu tarjeta o perfil para identificarte y acumulas puntos por tu actividad de juego. Esos puntos se transforman en beneficios, desde bonificaciones de juego hasta invitaciones a eventos. Este modelo encaja especialmente con quien prefiere volver al mismo casino y valora un trato más personal. A menudo, el socio recibe información antes sobre promociones y condiciones especiales. La lógica acumulativa es clave: incluso un juego moderado puede convertirse con el tiempo en ventajas visibles. También ayuda a planificar el presupuesto, porque parte del gasto se compensa con puntos, cupones o descuentos. En muchos clubes se impulsa la “temporada”, con semanas de recompensas más generosas. Habitualmente existen niveles que se alcanzan al superar umbrales de puntos o frecuencia. Cuanto más alto el nivel, mayor retorno y más extras. Para muchos visitantes, esto convierte el casino en un plan recurrente de ocio nocturno.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de registro:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSer mayor de 18 años y presentar documento\n\n<\/li>\n            <li>• \nCompletar datos básicos y consentimientos\n\n<\/li>\n            <li>• \nRecibir tarjeta de socio o perfil digital en caja\n\n<\/li>\n            <li>• \nActivación el mismo día (normalmente inmediata)\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveles y cómo lograrlos\n<\/h4>\n\n <ul>\n            <li>• \nWinner Start — alta y primera visita; acumulación base\n\n<\/li>\n            <li>• \nWinner Silver — desde 1.000 puntos\/mes; mejor retorno\n\n<\/li>\n            <li>• \nWinner Gold — desde 5.000 puntos\/mes; más privilegios\n\n<\/li>\n            <li>• \nWinner Platinum — desde 12.000 puntos\/mes; máximo servicio\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonos y ventajas\n<\/h4>\n\n <ul>\n            <li>• \nBono de bienvenida: 10–20 € en Free Play para máquinas\n\n<\/li>\n            <li>• \nCashback de juego: 5–10% en puntos en días seleccionados\n\n<\/li>\n            <li>• \nDías de puntos x2: duplicación 1–2 veces por semana\n\n<\/li>\n            <li>• \nRegalo de cumpleaños: 15–30 € en bono o detalle en el bar\n\n<\/li>\n\t    <li>• \nDescuentos en restaurante\/bar: 10–15% en Gold\/Platinum\n\n<\/li>\n\t    <li>• \nInvitaciones a eventos: 1–2 accesos con invitado al mes\n\n<\/li>\n\t    <li>• \nOfertas personalizadas: cupones de 5–25 € según hábitos\n\n<\/li>\n\t    <li>• \nAtención prioritaria: vía rápida en caja en horas punta \n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Proveedores de software"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entretenimiento y juegos e Gran Casino Las Palmas",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonos y ofertas especiales en Gran Casino Las Palmas: juegos, entretenimiento y promociones de temporada\n<\/h3>\n\n<p>\nMás allá del programa de fidelidad, Gran Casino Las Palmas suele contar con promociones que hacen el juego y el plan nocturno más atractivos. Habitualmente aparecen acciones para máquinas, torneos y eventos temáticos con premios repartidos entre participantes. En esos periodos, el visitante se anima a probar juegos nuevos y variar su rutina. También hay ofertas vinculadas al bar y al ocio, como noches con show o combinaciones de cena y entrada. Son comunes las “flash promos” de pocas horas, con mini sorteos que elevan la emoción. Los formatos de torneo gustan porque permiten optar a premios con un presupuesto más controlado. Si se va en grupo, resultan interesantes los paquetes con crédito de juego incluido. En temporadas festivas, el calendario se refuerza con música, decoración y propuestas especiales. Muchas acciones se concentran en días concretos para premiar a quienes eligen “su día” favorito. A veces se aplican mecánicas de segunda oportunidad, devolviendo parte del gasto en cupones. Para aprovechar al máximo, conviene revisar condiciones, límites y requisitos de participación. En conjunto, estas ofertas convierten la visita en una experiencia más completa.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nFree Play en máquinas: 5–25 € cumpliendo condiciones del día\n\n<\/li>\n            <li>• \nHora jackpot: sorteos extra cada 30–60 minutos, premios 100–1.000 €\n\n<\/li>\n            <li>• \nTorneo de slots: bolsa de premios 2.000–10.000 € semanal o fin de semana\n\n<\/li>\n            <li>• \nTorneos de póker: garantizados 3.000–15.000 € según formato\n\n<\/li>\n\t    <li>• \nPromo de ruleta: fichas o cupones 10–50 € en franjas horarias\n\n<\/li>\n\t    <li>• \nCombo “cena + juego”: pack con crédito 10–30 € y menú cerrado\n\n<\/li>\n\t    <li>• \nHappy hour del bar: 10–20% de descuento en selección de bebidas\n\n<\/li>\n\t    <li>• \nSorteos para asistentes: premios 50–500 € por participación en evento\n\n<\/li>\n\t    <li>• \nNoches de temporada: shows temáticos, packs y detalles de bienvenida\n\n<\/li>\n\t    <li>• \nDevolución en cupones: 5–10% en vales bajo límites de la promo\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJuegos populares de Gran Casino Las Palmas: desde tragamonedas hasta mesas en vivo\n<\/h3>\n\n<p>\nGran Casino Las Palmas suele reunir un catálogo clásico y fácil de entender, atractivo para públicos distintos. El segmento más popular son las máquinas: cómodas, disponibles casi todo el día y perfectas para sesiones cortas. Muchos jugadores las eligen por variedad de temáticas, rondas de bono y la posibilidad de un premio grande en una buena racha. Las versiones electrónicas se valoran por su rapidez, simplicidad y ritmo constante sin esperar mesa. Quien busca experiencia “en vivo” suele ir a ruleta y blackjack, donde cuentan la emoción, la estrategia y el trato con el crupier. La ruleta mantiene su éxito por reglas claras y ciclos rápidos. El blackjack atrae a quien prefiere decisiones controlables y una lógica matemática conocida. El póker añade un componente competitivo que también engancha a espectadores. Las apuestas deportivas aportan una alternativa para alternar entre partidos y sala. Para principiantes, suele ser más sencillo empezar por juego electrónico o apuestas bajas en ruleta para coger confianza. Los jugadores con experiencia suelen combinar formatos para hacer la noche más variada. En conjunto, la oferta permite crear un plan de juego tranquilo, estratégico o muy dinámico.\n\n<\/p>\n<br>\n<ul>\n            <li>• \nTragaperras: gran variedad, bonos, posibilidad de bote\n\n<\/li>\n            <li>• \nRuleta electrónica: rondas rápidas, ideal para iniciarse\n\n<\/li>\n            <li>• \nRuleta en vivo: ambiente clásico, apuestas a números y sectores\n\n<\/li>\n            <li>• \nBlackjack: juego estratégico contra crupier, decisiones por mano\n\n<\/li>\n\t    <li>• \nPóker: cash y torneos, enfoque competitivo\n\n<\/li>\n\t    <li>• \nPunto banco\/baccarat (si disponible): apuestas simples, ritmo alto\n\n<\/li>\n\t    <li>• \nBlackjack electrónico: juego autónomo, velocidad constante\n\n<\/li>\n\t    <li>• \nApuestas deportivas: pantallas, mercados variados y apuestas rápidas\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nApuestas en Gran Casino Las Palmas-mínimos y máximos por juego\n<\/h3>\n\n<p>\nLos límites de apuesta influyen directamente en la experiencia: a principiantes les conviene un acceso bajo y a jugadores avanzados les interesa un techo amplio para sesiones grandes. En Gran Casino Las Palmas los rangos suelen variar según se trate de juego electrónico, máquinas o mesas en vivo. En tragaperras la entrada suele ser más pequeña, mientras que en mesas los mínimos suben, pero se gana en control y dinámica. A continuación tienes una referencia orientativa para entender el orden de magnitud por juego.\n\n<\/p>\n<br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B7A469; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Juego<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta mínima<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta máxima<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Tragaperras<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta electrónica<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta en vivo<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1.000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack en vivo<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1.500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Punto banco\/baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2.000 €<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Póker cash (ciegas)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1\/2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10\/20 €<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Apuestas deportivas<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5.000 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nActividades y entretenimiento en Gran Casino Las Palmas: espectáculos, formato nocturno y eventos regulares\n<\/h3>\n\n<p>\nGran Casino Las Palmas se vive como un lugar donde el juego es solo una parte del plan, y el resto lo ponen los eventos, la música y el ambiente nocturno. Las propuestas regulares hacen que la visita tenga vida: incluso si entras solo a curiosear, suele haber motivos para quedarse. El formato de actuaciones por la noche acompaña la transición desde una cena tranquila hacia un ritmo más animado. Lo mejor es que no exige planificación: en un mismo espacio encuentras programa completo.\n\n<\/p>\n<br>\n\n\n<p>\nSuele destacarse la presencia de actuaciones en directo y noches temáticas que atraen tanto a visitantes como a público local. Música, presentadores y elementos de escena crean sensación de evento, no de visita estándar. En fechas señaladas el ambiente se refuerza con propuestas de temporada: fiestas, temáticas, formatos especiales o noches gastronómicas. Para grupos de amigos es práctico, porque cada uno elige su plan: jugar, charlar en el lounge o ver el show.\n\n<\/p>\n<br>\n<p>\nEl componente “club” aparece sobre todo en el ritmo: horarios tardíos, dinámica de barra y música que marca el tempo. Incluso sin un club clásico, el lounge y la programación de eventos cumplen una función similar, generando vida nocturna y espacio social. Un punto importante es la gestión del confort: acceso controlado, seguridad y servicio mantienen una experiencia agradable aun con aforo alto. Así, el entretenimiento complementa la emoción del juego y hace la noche más memorable.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntretenimiento\n<\/h4>\n\n <ul>\n            <li>• \nActuaciones en directo: música y conciertos nocturnos\n\n<\/li>\n            <li>• \nNoches de show temático: formatos escénicos con presentador\n\n<\/li>\n            <li>• \nEventos nocturnos: fiestas, sets musicales, special nights\n\n<\/li>\n            <li>• \nFormatos combinados: cena + show + acceso a juego\n\n<\/li>\n\t    <li>• \nPropuestas de temporada: noches festivas y ambientación temática\n\n<\/li>\n\t    <li>• \nRetransmisiones deportivas: partidos en la zona de apuestas\n\n<\/li>\n\t    <li>• \nOcio lounge: socialización, barra y ritmo relajado\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBares, restaurantes y ocio en el Gran Casino Las Palmas: cómo pasar la noche cómodamente\n<\/h3>\n\n<p>\nEl descanso en Gran Casino Las Palmas se basa en la idea de “todo en uno”: puedes empezar con una bebida, pasar al juego y terminar la noche en formato lounge. La zona de bar suele servir como pausa entre sesiones, cuando conviene desconectar y recuperar comodidad. Para muchos visitantes no es un extra, sino una parte central: el ambiente social y el servicio calmado ayudan a mantener un ritmo agradable. Además, se agradece no tener que cambiar de lugar: todo está cerca.\n\n<\/p>\n<br>\n\n\n<p>\nLa parte gastronómica hace que la visita se sienta más completa, incluso si no vienes con un plan de juego fuerte. Cenar antes de las mesas o después de jugar ayuda a construir una velada con sentido y a evitar improvisar. Cuando hay eventos, el restaurante funciona como punto de inicio de una noche con show, y después resulta natural pasar a la sala. Este enfoque encaja especialmente con parejas y grupos que buscan experiencia, no solo apuestas.\n\n<\/p>\n<br>\n<p>\nSobre hoteles, la gran ventaja de la ubicación es la cercanía a la infraestructura urbana y a múltiples opciones de alojamiento alrededor. Así puedes escoger hospedaje según presupuesto y estilo, y vivir el casino como plan nocturno. Para turistas es muy práctico: paseo, cena, espectáculo y juego sin logística complicada. El resultado es una noche urbana redonda, donde la emoción del juego se combina con gastronomía y ocio.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEspacios de descanso\n<\/h4>\n\n <ul>\n            <li>• \nRestaurante: cena y ambiente cómodo para la velada\n\n<\/li>\n            <li>• \nLounge Bar: cócteles, copas y atmósfera nocturna relajada\n\n<\/li>\n            <li>• \nZonas de descanso: pausas entre partidas y ritmo tranquilo\n\n<\/li>\n            <li>• \nÁreas de eventos: cenas con espectáculo y noches temáticas\n\n<\/li>\n\t    <li>• \nHoteles cercanos: opciones de alojamiento a poca distancia\n\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "items": [
+                {
+                    "title": "¿Hay límites para efectivo o fichas?",
+                    "answer": "Normalmente dependen de la operativa de caja y de seguridad. Para importes altos pueden pedir documento y formalizar la operación.\n\n\n"
+                },
+                {
+                    "title": "¿Puedo cambiar fichas otro día?",
+                    "answer": "Lo habitual es canjear en caja durante el horario, pero las condiciones pueden variar. Por comodidad, suele ser mejor hacerlo el mismo día.\n\n\n"
+                },
+                {
+                    "title": "¿Qué pasa si discuto un resultado de mano o apuesta?",
+                    "answer": "El personal aplica reglamentos internos y se apoya en videovigilancia. Normalmente interviene un supervisor para resolverlo.\n\n\n"
+                },
+                {
+                    "title": "¿Hay límites de tiempo en una mesa?",
+                    "answer": "No suele haber límites estrictos, pero si hay mucha demanda pueden pedir rotación cuando alguien no apuesta durante bastante tiempo. El buen protocolo es participar activamente.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1621",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Gran Casino Las Palmas"
+        }
+    },
+    "langs": [
+        {
+            "code": "es-ES",
+            "name": "Испанский",
+            "isDefault": true
+        }
+    ]
+}
